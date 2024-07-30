@@ -1,0 +1,29 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp API Project: URL Shortener Microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajatkantinandi/url-shortener-fcc.git"
+  },
+  "keywords": [
+    "Freecodecamp",
+    "API",
+    "URL-Shortener"
+  ],
+  "author": "Rajat Kanti Nandi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajatkantinandi/url-shortener-fcc/issues"
+  },
+  "homepage": "https://github.com/rajatkantinandi/url-shortener-fcc#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.3"
+  }
+}
